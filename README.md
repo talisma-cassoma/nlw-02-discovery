@@ -57,9 +57,9 @@ Made with ♥ by Rocketseat: wave: [Join Rockseat community!](https://discordapp
 * Installs Gitbash  
 * Execute from Gitbash TERMINAL:
 * npm express
-*npm Nunjucks
-*npm sql-async
-* I nodemon if you want 
+* npm Nunjucks
+* npm sql-async
+* npm nodemon if you want 
 * npm start
 * Open the browser: http: // localhost: 5500 /.
 
