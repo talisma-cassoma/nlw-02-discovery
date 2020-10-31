@@ -1,6 +1,8 @@
-I participated in the NEXT LEVEL WEEK # 3 of Rocketseat a Brazilian advanced programming channel on YouTube
-we have created a web page that displays orphanages on google maps and puts them in contact by WhatsApp, shows the etinairaire until then, the orphanages must register on the platform, their data is stored on the database in SQLite and handled in the backend by nodejs.
-the frontend is fully developed in html, CSS and javaScript.
+I participated in the NEXT LEVEL WEEK # 2 of Rocketseat a Brazilian channel of advanced programming on YouTube
+we have created a web page that recruits teachers of all kinds and puts them in contact by WhatsApp (using the WhatsApp API), the students must register like the teachers on the platform, their data is stored on the database data in SQL and manipulated in the backend
+the, frontend is fully developed in html, CSS and javaScript.
+
+always greatfull for Rocketseat ♥.
 
 <h1 align="center">
     <img alt="Proffy" title="Proffy" src=".github/logo.svg" />
