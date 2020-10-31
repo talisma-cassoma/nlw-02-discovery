@@ -61,6 +61,6 @@ Made with ♥ by Rocketseat: wave: [Join Rockseat community!](https://discordapp
 * npm sql-async
 * npm nodemon if you want 
 * npm start
-* Open the browser: http: // localhost: 5500 /.
+* Open the browser: 127.0.0.1:5500
 
 
