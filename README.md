@@ -1,6 +1,6 @@
 I participated in the NEXT LEVEL WEEK # 2 of Rocketseat a Brazilian channel of advanced programming on YouTube
-we have created a web page that recruits teachers of all kinds and puts them in contact by WhatsApp (using the WhatsApp API), the students must register like the teachers on the platform, their data is stored on the database data in SQL and manipulated in the backend
-the, frontend is fully developed in html, CSS and javaScript.
+we have created a web page that recruits teachers of all kinds and puts them in contact by WhatsApp (using the WhatsApp API), the students must register as like the teachers on the platform, their data is stored on the database in SQL and manipulated in the backend using nodejs
+the frontend is fully developed in html, CSS and javaScript.
 
 always greatfull for Rocketseat ♥.
 
