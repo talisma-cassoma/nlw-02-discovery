@@ -56,10 +56,10 @@ Made with ♥ by Rocketseat: wave: [Join Rockseat community!](https://discordapp
 * Installs Node
 * Installs Gitbash  
 * Execute from Gitbash TERMINAL:
-* Installs express
-* Installs Nunjucks
-* Installs sql-Async
-* Installs nodemon if you want 
+* npm express
+*npm Nunjucks
+*npm sql-async
+* I nodemon if you want 
 * npm start
 * Open the browser: http: // localhost: 5500 /.
 
